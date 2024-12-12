@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1036232789700",
+    "firebase_url": "https://student-ae63a-default-rtdb.firebaseio.com",
+    "project_id": "student-ae63a",
+    "storage_bucket": "student-ae63a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036232789700:android:210d8b765024d693f74391",
+        "android_client_info": {
+          "package_name": "com.aysha.student_info"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnCLdSlRbW520wMBsB8e4Tm5cDHzwB-II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
